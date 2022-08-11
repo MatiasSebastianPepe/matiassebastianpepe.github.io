@@ -1,0 +1,48 @@
+html {
+    background-image: linear-gradient(to top, #a5c9a8 0%, #deecdd 100%);
+    background-repeat: no-repeat;
+} 
+
+.titulo {
+    display: block;
+    position: relative;
+    text-align: center;
+    color: #0c3910;
+    margin-top: 30px;
+    font-size: 1.6em;
+    font-family: 'Play', sans-serif;
+    font-weight: 400;
+}
+
+.subtitulo {
+    display: block;
+    text-align: center;
+    margin-top: -30px;
+    color: #0c3910;
+    font-family: 'Play', sans-serif;
+    font-weight: 100;
+}
+
+.proyectos {
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.5em;
+    color: #0c3910;
+    font-family: 'Play', sans-serif;
+    font-weight: 100;
+}
+
+.img {
+    width: 50%;
+
+}
+
+a {
+    text-decoration: none;
+    color: #0c3910;
+}
+a:visited {
+    text-decoration: none;
+    color: #0c3910;
+}
